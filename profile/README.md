@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://areforge.com" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/areforge/.github/main/assets/areforge-logo.svg"
+      src="https://raw.githubusercontent.com/areforge/.github/main/assets/areforg-banner-github.png"
       width="320"
       alt="AreForge"
     >
