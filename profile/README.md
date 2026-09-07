@@ -2,7 +2,7 @@
   <a href="https://areforge.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/areforge/.github/main/assets/areforg-banner-github.png"
-      width="400"
+      width="550"
       alt="AreForge"
     >
   </a>
