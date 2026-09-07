@@ -23,7 +23,6 @@ We build tools that bring **AI into the software development lifecycle**, from c
 ### What we're building
 
 * 🤖 **AI Engineering Agents**
-* 🔍 **AI Code Review**
 * ⚙️ **Developer & Engineering Tools**
 * 🏗️ **Software Engineering Infrastructure**
 
