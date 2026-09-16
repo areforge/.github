@@ -16,9 +16,9 @@
 
 ## About AreForge
 
-**AreForge** is an AI-powered engineering platform focused on helping software teams build, review, and maintain better software.
+**AreForge** is an AI-powered engineering platform focused on helping software teams build, and maintain better software.
 
-We build tools that bring **AI into the software development lifecycle**, from code review and engineering workflows to intelligent developer agents.
+We build tools that bring **AI into the software development lifecycle**, from engineering workflows to intelligent developer agents.
 
 ### What we're building
 
